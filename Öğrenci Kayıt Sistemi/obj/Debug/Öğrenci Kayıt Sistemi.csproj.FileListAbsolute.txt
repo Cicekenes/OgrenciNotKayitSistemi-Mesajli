@@ -1,0 +1,74 @@
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe.config
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\EnvDTE.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\stdole.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csprojAssemblyReference.cache
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Form1.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.FrmOgretmen.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.Properties.Resources.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.GenerateResource.cache
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.csproj.CopyComplete
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.exe
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci Kayıt Sistemi.pdb
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.FrmOgrenci.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.FrmDuyuruOlustur.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.FrmDuyuruListesi.resources
+C:\Users\bmene\source\repos\Öğrenci Kayıt Sistemi\Öğrenci Kayıt Sistemi\obj\Debug\Öğrenci_Kayıt_Sistemi.FrmMesajlar.resources
